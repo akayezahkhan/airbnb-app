@@ -37,7 +37,7 @@ return(
                 </ul>
             </div>
             <div className="flex flex-col px-16 py-6 leading-loose text-base">
-                <h3 className ="font-semibold">ABOUT</h3>
+                <h3 className ="font-semibold">About</h3>
                 <ul className = "flex-col font-light text-xs leading-loose">
                     <li>How Airbnb works</li>
                     <li>Newsroom</li>
